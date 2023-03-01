@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 
 <i class="devicon-mysql-plain" width="40" height="40"></i>
+<i class="devicon-mysql-plain" width="40" height="40"></i>
           
 -->
