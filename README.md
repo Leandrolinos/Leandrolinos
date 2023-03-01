@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 
 - ⚡ Curiosidade: Apaixonado por.. BoardGames (me chama para jogar) :game_die: por natureza :mountain: pela lua :new_moon_with_face: e comidas (diversas) :popcorn::hamburger::hotdog::fish_cake::pizza:
 
+
+
+<i class="devicon-mysql-plain"></i>
+          
 -->
