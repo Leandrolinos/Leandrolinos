@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 💬 Pergunte-me sobre tecnologia JavaScript e duvida de negocios sobre constução civil :construction_worker: ou polimeros :alembic:
 
-📫 Como entrar em contato comigo: linkedin :link: https://www.linkedin.com/in/leandro-oliveira-4616a5102/
+- 📫 Como entrar em contato comigo: linkedin :link: https://www.linkedin.com/in/leandro-oliveira-4616a5102/
 
 - ⚡ Curiosidade: Apaixonado por.. BoardGames (me chama para jogar) :game_die: por natureza :mountain: pela lua :new_moon_with_face: e comidas (diversas) :popcorn::hamburger::hotdog::fish_cake::pizza:
 
