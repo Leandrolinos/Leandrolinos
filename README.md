@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<i class="devicon-mysql-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
           
 -->
