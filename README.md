@@ -1,5 +1,4 @@
 ### Console.log("hello world!!") 👋👋👋
-<video src="https://tenor.com/pt-PT/view/kitten-keybo-lap-gif-19489640">
 
 <--
 
