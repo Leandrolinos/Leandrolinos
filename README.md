@@ -2,9 +2,6 @@
 
 
 
-<video class="tenor-gif-embed" data-postid="19489640" data-share-method="host" data-aspect-ratio="0.953125" data-width="100%">
- <script type="text/javascript" async src="https://tenor.com/embed.js">
- </script>
 <--
 
 **Leandrolinos/Leandrolinos** um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
