@@ -24,9 +24,11 @@ Algumas coisas sobre mim...
 
 - ⚡ Curiosidade: Apaixonado por.. BoardGames (me chama para jogar) :game_die: por natureza :mountain: pela lua :new_moon_with_face: e comidas (diversas) :popcorn::hamburger::hotdog::fish_cake::pizza:
 
-
+<br />
+<br />
+<br />
 Tecnologia em _foco_ para...
-       
+      <br /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" colo="white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
          
 <br />
