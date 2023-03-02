@@ -15,10 +15,9 @@ Algumas coisas sobre mim...
 
 - 💬 Pergunte-me sobre tecnologia JavaScript e duvida de negocios sobre constução civil :construction_worker: ou polimeros :alembic:
 
-- 📫 Como entrar em contato comigo: linkedin :link: https://www.linkedin.com/in/leandro-oliveira-4616a5102/
+- 📫 Como entrar em contato comigo: :link: :mailbox_with_mail: :camera_flash:
 
 <div>
-
 <a href="https://www.instagram.com/leandro.olialves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:leandro.alves.oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leandro-oliveira-4616a5102" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
