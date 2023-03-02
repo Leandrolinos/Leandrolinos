@@ -1,9 +1,5 @@
 ### Console.log("hello world!!") 👋👋👋
 
-https://tenor.com/pt-PT/view/angry-cat-busy-laptop-gif-15731367
-
-https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif
-![Alt Text](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
