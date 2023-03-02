@@ -39,7 +39,7 @@ Tecnologia em _foco_ para...
 <br />
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrolinos&hide=contribs,prs) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrolinos&show_icons=true&bg_color=00000000) 
-</div><div>Exmplos</div>
+</div><div> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrolinos&show_icons=true&bg_color=00000000)  </div>
 
 
 
