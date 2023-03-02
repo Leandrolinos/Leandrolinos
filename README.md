@@ -37,6 +37,5 @@ Tecnologia em _foco_ para...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrolinos&show_icons=true&bg_color=00000000)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leandrolinos&repo=github-readme-stats)](https://github.com/Leandrolinos/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leandrolinos&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
