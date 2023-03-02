@@ -7,7 +7,7 @@
 
 **Leandrolinos/Leandrolinos** um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
-Here are some ideas to get you started:
+Algumas coisas sobre mim...
 
 - 🔭 Atualmente estou trabalhando com "frelas" (sits voltados para construção civil) :construction_worker:
  
