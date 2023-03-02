@@ -1,19 +1,11 @@
 ### Console.log("hello world!!") 👋👋👋
 
+https://tenor.com/pt-PT/view/angry-cat-busy-laptop-gif-15731367
 
-![Alt Text](https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv/giphy.gif)
-
-giphy.gif
-a
-
-![Alt Text](tenor.com/pt-PT/view/kitten-keybo-lap-gif-19489640/tenor.git)
-
-<div class="tenor-gif-embed" data-postid="19489640" data-share-method="host" data-aspect-ratio="0.953125" data-width="100%"><a href="https://tenor.com/view/kitten-keybo-lap-gif-19489640">Kitten Keybo GIF</a>from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Alt Text](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 
 
-
-<--
 
 **Leandrolinos/Leandrolinos** um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
@@ -34,8 +26,4 @@ Tecnologia em _foco_ para...
        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" colo="white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
           
-          
       
-
-          
--->
