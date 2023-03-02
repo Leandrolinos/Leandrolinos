@@ -1,5 +1,7 @@
 ### Console.log("hello world!!") 👋👋👋
 
+
+<div class="tenor-gif-embed" data-postid="19489640" data-share-method="host" data-aspect-ratio="0.953125" data-width="100%"><a href="https://tenor.com/view/kitten-keybo-lap-gif-19489640">Kitten Keybo GIF</a>from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <--
 
 **Leandrolinos/Leandrolinos** um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
@@ -19,7 +21,7 @@ Here are some ideas to get you started:
 
 Tecnologia em _foco_ para...
 
-            
+            <br><br>
        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" colo="white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
           
