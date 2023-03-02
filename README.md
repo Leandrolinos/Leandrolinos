@@ -4,7 +4,7 @@
 ![Alt Text](https://giphy.com/gifs/office-profile-fb-T5nP7Nwu5FzMc)
 a
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](tenor.com/pt-PT/view/kitten-keybo-lap-gif-19489640/tenor.git)
 
 <div class="tenor-gif-embed" data-postid="19489640" data-share-method="host" data-aspect-ratio="0.953125" data-width="100%"><a href="https://tenor.com/view/kitten-keybo-lap-gif-19489640">Kitten Keybo GIF</a>from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
