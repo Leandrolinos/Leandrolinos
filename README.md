@@ -1,7 +1,9 @@
 ### Console.log("hello world!!") 👋👋👋
 
 
-![Alt Text](https://tenor.com/pt-PT/view/kitten-keybo-lap-gif-19489640/tenor.gif)
+![Alt Text](https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv/giphy.gif)
+
+giphy.gif
 a
 
 ![Alt Text](tenor.com/pt-PT/view/kitten-keybo-lap-gif-19489640/tenor.git)
