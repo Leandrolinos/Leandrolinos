@@ -30,17 +30,6 @@ Tecnologia em _foco_ para...
          
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrolinos&hide=contribs,prs) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrolinos&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrolinos&show_icons=true&theme=transparent)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrolinos&show_icons=true&bg_color=00000000)
-
-<a href="https://github.com/Leandrolinos/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leandrolinos&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Leandrolinos/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leandrolinos&repo=convoychat" />
-</a>
-
