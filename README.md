@@ -9,7 +9,9 @@
 Algumas coisas sobre mim...
 
 - 🔭 Atualmente estou trabalhando com "frelas"  :construction_worker:
- 
+
+- :technologist: Experiencia de mais de um ano com JavaScript :technologist:
+  
 - 🌱 Aperfeiçoando JavaScript :technologist:
 
 - 💬 Pergunte-me sobre tecnologia JavaScript e duvida de negocios sobre constução civil :construction_worker: ou polimeros :alembic:
