@@ -8,9 +8,9 @@
  -->
 Algumas coisas sobre mim...
 
-- 🔭 Atualmente estou trabalhando com "frelas" (sits voltados para construção civil) :construction_worker:
+- 🔭 Atualmente estou trabalhando com "frelas"  :construction_worker:
  
-- 🌱 Atualmente estou aprendendo JavaScript na CubosAcademy, para ser um Dev fullStack :technologist:
+- 🌱 Aperfeiçoando JavaScript :technologist:
 
 - 💬 Pergunte-me sobre tecnologia JavaScript e duvida de negocios sobre constução civil :construction_worker: ou polimeros :alembic:
 
